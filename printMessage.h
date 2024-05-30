@@ -1,0 +1,22 @@
+#pragma once
+
+void first_start_message();
+void help_message();
+void invalid_file_format_1();
+void invalid_file_format_2();
+void missing_file_1();
+void missing_file_2();
+void missing_file_3();
+void missing_file_4();
+void operation_not_detected();
+void message_about_incorrect_data();
+void compress_file_start_opening_error();
+void compress_file_result_opening_error();
+void decompress_file_archive_opening_error();
+void decompress_file_result_opening_error();
+void empty_file_compress();
+void compress_performance();
+void compress_complited();
+void decompress_performance();
+void decompress_complited();
+void empty_file_decompress();
