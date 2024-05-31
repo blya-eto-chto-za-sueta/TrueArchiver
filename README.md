@@ -30,7 +30,7 @@ For example:
 For example: 
 
 ``` bash
-'TrueArchiver.exe -d arch.newZip file.txt'```
+'TrueArchiver.exe -d arch.newZip file.txt'
 ```
 ### IMPORNANT
 1. "TrueArchiver" can't work with several files simultaneously.
